@@ -1,2 +1,1 @@
-# CSE100
-Coursework from CSE 100(Adv. Data Structures)
+# CSE 100 Advanced Data Structures (Prof. Alvarado)
